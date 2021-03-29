@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [10/Mar/2021:12:04:11 +0900] "GET /examples HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [10/Mar/2021:12:04:11 +0900] "GET /examples/ HTTP/1.1" 200 1156
+0:0:0:0:0:0:0:1 - - [10/Mar/2021:12:04:11 +0900] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [10/Mar/2021:12:04:13 +0900] "GET /examples/servlets HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [10/Mar/2021:12:04:13 +0900] "GET /examples/servlets/ HTTP/1.1" 200 6789
+0:0:0:0:0:0:0:1 - - [10/Mar/2021:12:04:13 +0900] "GET /examples/servlets/images/code.gif HTTP/1.1" 200 292
+0:0:0:0:0:0:0:1 - - [10/Mar/2021:12:04:13 +0900] "GET /examples/servlets/images/execute.gif HTTP/1.1" 200 1242
+0:0:0:0:0:0:0:1 - - [10/Mar/2021:12:04:13 +0900] "GET /examples/servlets/images/return.gif HTTP/1.1" 200 1231
+0:0:0:0:0:0:0:1 - - [10/Mar/2021:12:04:17 +0900] "GET /examples/jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [10/Mar/2021:12:04:17 +0900] "GET /examples/jsp/ HTTP/1.1" 200 14614
+0:0:0:0:0:0:0:1 - - [10/Mar/2021:12:04:17 +0900] "GET /examples/jsp/images/code.gif HTTP/1.1" 200 292
+0:0:0:0:0:0:0:1 - - [10/Mar/2021:12:04:17 +0900] "GET /examples/jsp/images/execute.gif HTTP/1.1" 200 1242
+0:0:0:0:0:0:0:1 - - [10/Mar/2021:12:04:17 +0900] "GET /examples/jsp/images/return.gif HTTP/1.1" 200 1231
+0:0:0:0:0:0:0:1 - - [10/Mar/2021:12:04:19 +0900] "GET /examples/websocket/index.xhtml HTTP/1.1" 200 1299

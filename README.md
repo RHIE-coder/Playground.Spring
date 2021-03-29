@@ -1,2 +1,25 @@
-# Playground.SpringSetting
-IDE 도움을 최소화해서 한번 Spring 프로젝트 환경 설정을 해보기
+# Study Spring
+
+## 01. Base Environment
+
+### Gradle
+
+#### * site 
+ - [Gradle.org](https://gradle.org/)
+
+#### * prerequisites
+
+ - Java
+
+#### * Usage
+
+ - build the gradle project
+
+```cmd
+gradle init
+```
+ - run the gradle project
+
+```cmd
+./gradlew run
+```
